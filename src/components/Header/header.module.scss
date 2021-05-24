@@ -1,1 +1,13 @@
 // TODO
+.container{
+    max-width: 1120px;
+    height: 105px;
+    margin: 0 auto;
+    div{
+        max-width: 700px;
+        height: 105px;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+    }
+}
